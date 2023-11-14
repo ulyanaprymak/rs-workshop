@@ -1,3 +1,6 @@
 Some text for header
-Changes from <Master>+ new chages!!!
+Changes from <Master>
+changes from <first branch>
+
+Text from master: new chages!!!
 
